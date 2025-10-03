@@ -26,10 +26,10 @@
 
 <details>
   <summary>📊 GitHub Stats</summary>
-  <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Matias171314&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
-    <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias171314&layout=compact&theme=radical" width="350" height="250" ></a>
+  <div align="center"><p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matias171314&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias171314&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
+</p>
   </div>
 </details>
 
