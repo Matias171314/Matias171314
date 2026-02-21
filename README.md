@@ -17,21 +17,9 @@
 
 ### 👨‍🎓 About Me  
 - 🎓 Student of **Computer Engineering** at [Universidad de Alcalá](https://uah.es) 🇪🇸  
-- 🎓 Student at **42 Madrid** (Common Core)  
-- 💻 Focused on **problem-solving, software development & clean code**  
-- 🌟 Always exploring new technologies & building personal projects  
-- 🎶 When I’m not coding, you’ll find me listening to music, traveling, or swimming  
-
----
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <div align="center"><p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matias171314&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias171314&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
-</p>
-  </div>
-</details>
+- 🎓 Student at **42 Madrid** (Common Core)
+- 🧠 Deeply focused on **problem-solving, software development & clean code**
+- 🚀 Always exploring new technologies and building hands-on projects
 
 ---
 
@@ -83,7 +71,7 @@
 
 <div align="center">
   
-✨ Fun fact: I survive on **coffee + late-night coding sessions + debugging adventures** 🖥️  
+🕷️ **With great root access comes great responsibility.** 🖥️  
 
 </div>
 
