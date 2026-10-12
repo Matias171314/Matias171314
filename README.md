@@ -1,20 +1,74 @@
-### Hi there 👋
+# Hi, I'm Matias Vásquez 👋
 
-I'm Matias Vásquez,
+**Computer Engineering student at [University of Alcalá](https://www.uah.es/) · [42 Madrid](https://www.42madrid.com/) · Based in Spain**
 
-I'm building solid engineering foundations: mastering low-level programming, solving complex logic puzzles, and aiming for the aerospace sector.
+I develop projects in **C, Python, and Java** while building a foundation in systems programming and algorithms. My main interest is **autonomous robotics**, particularly perception and navigation for mobile robots, with a long-term goal of contributing to **robotic space exploration**.
 
-I am an undergraduate student at [UAH](https://uah.es) and [42 Madrid](https://www.42madrid.com), highly versatile, and always open to learning new tech stacks.
+## ⚙️ Technical foundation
 
-* **Building** core software skills primarily in C, C++, Python, SQL, while remaining adaptable to whatever language the project requires.
-* **Exploring** Embedded Systems and low-level architecture to understand how software interacts directly with hardware.
-* **Analyzing** data and experimenting with AI to solve real-world problems and optimize processes.
-* **Aiming** to contribute to the space tech industry, open-source communities, and collaborative team projects.
+- **Systems programming** — Memory management, concurrency, synchronization, and scheduling through projects in C.
+- **Algorithms & problem solving** — Sorting, graph traversal, and pathfinding.
+- **Development & debugging** — Building projects with Make and Maven, and using GDB and Valgrind to investigate program behavior and memory issues.
 
-<br>
+## 🛠️ Technologies & tools
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/mvasquez17/) | [Email](mailto:matinico17@outlook.com)
+### Languages
 
-<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45" />
+</p>
 
-![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matias171314&show_icons=true&theme=transparent&hide_border=true)
+**C · Python · Java**
+
+### Environment & development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="45" height="45" />
+</p>
+
+**Linux · Git · VS Code · IntelliJ IDEA**  
+Build & debugging tools: **Make · Maven · GDB · Valgrind**
+
+### Scientific computing & data analysis
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="45" height="45" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="45" height="45" />
+</p>
+
+**MATLAB · NumPy · pandas · Matplotlib · Seaborn · Jupyter Notebook**
+
+Additional academic experience: **Docker · ESP32 · Arduino IDE**
+
+## 🤖 Currently learning
+
+I'm studying **robot control and computer vision**, using **MATLAB, Simulink, and ROS 2** in my coursework.
+
+I'm interested in how robots perceive their surroundings, estimate their position, and plan and execute movement. I want to build on these foundations to develop software for autonomous exploration.
+
+## 📬 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/mvasquez17/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="30" height="30" />
+  </a>
+</p>
+
+[LinkedIn](https://www.linkedin.com/in/mvasquez17/) · [✉️ Email](mailto:matinico17@outlook.com)
